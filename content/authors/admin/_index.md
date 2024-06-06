@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 钟子航
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhong Zi Hang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zi Hang
+last_name: Zhong
 
 # Status emoji
 status:
@@ -17,26 +17,26 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student at University of Science and Technology Beijing
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: USTB
+    url: https://www.ustb.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: at-symbol  # 邮箱
+    url: 'mailto:19917974081@163.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/x  # CSDN
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
+  - icon: brands/linkedin  # gittee
     url: https://www.linkedin.com/
-  - icon: brands/instagram
+  - icon: brands/instagram  # B站
     url: https://www.instagram.com/
 
 education:
