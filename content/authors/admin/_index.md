@@ -30,14 +30,14 @@ profiles:
   - icon: at-symbol  # 邮箱
     url: 'mailto:19917974081@163.com'
     label: E-mail Me
-  - icon: brands/x  # CSDN
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/csdn  # CSDN
+    url: https://blog.csdn.net/weixin_61886405
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/theLazyFo0l
   - icon: brands/linkedin  # gittee
-    url: https://www.linkedin.com/
+    url: https://gitee.com/zhong-zihang928
   - icon: brands/instagram  # B站
-    url: https://www.instagram.com/
+    url: https://space.bilibili.com/106283880
 
 education:
   - area: PhD Artificial Intelligence
@@ -169,4 +169,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+我叫钟子航，来自江西赣州。目前是一名北京科技大学计算机与通信工程学院的本科生，专业是计算机科学与技术。在学校勤奋好学，目前大学加权平均成绩为89.6，GPA：3.78/4.0，位于专业排名7.8%，获得本科2021级人民二等奖学金国家励志奖学金。在学校积极参与学生工作，作为班级的团支书，与全体同学共同努力获得北京科技大学先进班集体、优秀团支部标兵等荣誉称号，个人获得优秀三好学生、优秀团干部等奖项。
